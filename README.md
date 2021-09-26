@@ -32,11 +32,11 @@ When reviewing the individual lots you will see that Lot1 and Lot2 have higher p
 ## Study Design: MechaCar vs Competition
 
 When comparing the MechaCar to its competition some key metrics that should be considered include:
-    - Cost to manufacture
-    - Selling price
-    - Fuel Efficiency
-    - Safety Rating
-    - Quantity Sold
+    Cost to manufacture
+    Selling price
+    Fuel Efficiency
+    Safety Rating
+    Quantity Sold
 
 After going thru these measures we should be able to successfully test the following hypothesis
 
